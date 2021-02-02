@@ -1,0 +1,48 @@
+.text-muted{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.img-fluid{
+  height: 320px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.card-deck{
+  height: 200px;
+  margin: 10px;
+
+}
+
+.btn btn-outline-secondary{
+  display: flex;
+  justify-content: start;
+  
+}
+
+.card-footer {
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+
+.btn{
+  display: flex;
+}
+
+.botones{
+  display: flex;
+}
+
+body {
+  background-color: #FCFCFC;
+}
+
+.card{
+  -webkit-box-shadow: 7px 7px 12px 0px rgba(207,205,207,1);
+-moz-box-shadow: 7px 7px 12px 0px rgba(207,205,207,1);
+box-shadow: 7px 7px 12px 0px rgba(207,205,207,1);
+}
